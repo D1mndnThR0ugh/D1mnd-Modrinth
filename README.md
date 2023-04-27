@@ -1,4 +1,4 @@
-# D1mnd-Modrinth
+# D1mnd Modrinth Issue Tracker
 Basically the issue tracker for my Modrinth stuff
 
 ---
