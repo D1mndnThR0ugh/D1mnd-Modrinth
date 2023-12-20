@@ -6,6 +6,6 @@ To report or ask something, use the Issues tab
 
 Use labels to indicate what project your post is about and what kind of issue you are having
 
-I check this quite often so depending on the problem I should have an answer within a couple of days at most
+I don't have as much free time as I used to, but I try to check this once a week
 
 ---
