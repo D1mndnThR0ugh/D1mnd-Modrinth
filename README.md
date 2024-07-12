@@ -9,7 +9,8 @@ I try to check this pretty often so it doesn't take ages for me to respond to th
 ---
 There are also copies of all packs available on Modrinth so you can download them here too
 
-As stated in the liscence you may use my textures in your own packs if you want with or without credit
+As stated in the licence you may use my textures in your own packs if you want (with credit ofc)
+(as long as you're not making more money than me ):< /silly)
 
 I'm really just here to fix niche things I don't like (:
 
